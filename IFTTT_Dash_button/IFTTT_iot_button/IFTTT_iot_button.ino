@@ -15,7 +15,7 @@
 
   when connected the led remains green, while data is sending the led turns
 
-  off, when done it turns back to green.
+  off, when done it turns back to green
 
 
 
