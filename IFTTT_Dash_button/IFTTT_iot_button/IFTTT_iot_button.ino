@@ -4,7 +4,6 @@
   Created: 1/06/2018 11:18:19 PM
   Author: Abishek Rajagopal
  
-  Simple IoT button using the If This Then That(IFTTT) Maker Channel, Sparkfun
 
   ESP8266 Thing or Adafruit Huzzah, a standard Green LED(or onboard green LED)
 
